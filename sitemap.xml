@@ -72,6 +72,46 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/spring-rolls/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/classic-bubble-tea/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/taro-bubble-tea/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/mango-bubble-tea/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/matcha-bubble-tea/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/strawberry-bubble-tea/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/lychee-bubble-tea/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/honeydew-bubble-tea/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
